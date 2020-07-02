@@ -7,7 +7,7 @@ layout: default
   <meta property="og:title" content="03172008's website" />
   <meta property="og:description" content="A website made by me" />
   <meta property="og:url" content="https://03172008.github.io" />
-  <meta property="og:image" content="https://github.com/03172008/03172008.github.io/blob/master/pink%20goose%20background%20removed.png" />
+  <meta property="og:image" content="03172008.github.io/pink goose background removed.png" />
 </head>
 </html>
 
