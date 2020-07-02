@@ -14,21 +14,20 @@ layout: default
 This is my page! Take a look around, it is a very kewl page lol.
 
 
-[Link to another page](./another-page.html).
+[Here is my scratch profile:](https://scratch.mit.edu/users/-SpamCauldron-/).
 
-There should be whitespace between paragraphs.
+# My IDE of choice: 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Visual Studio Community. I am ok with vscode but I like Visual Studio more.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# Things I am learning right now:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I am currently learning on Khan Academy. 
+
+## My profile picture:
+![Profile-pic:] (https://github.com/03172008/03172008.github.io/blob/master/pink%20goose%20background%20removed.png)
 
 ### Header 3
 
