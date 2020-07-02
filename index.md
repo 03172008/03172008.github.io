@@ -27,7 +27,7 @@ Visual Studio Community. I am ok with vscode but I like Visual Studio more.
 I am currently learning on Khan Academy. 
 
 ## My profile picture:
-![Profile-pic:] (https://github.com/03172008/03172008.github.io/blob/master/pink%20goose%20background%20removed.png)
+<img src="https://github.com/03172008/03172008.github.io/blob/master/pink%20goose%20background%20removed.png">
 
 ### Header 3
 
