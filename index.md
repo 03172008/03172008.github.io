@@ -26,8 +26,8 @@ Visual Studio Community. I am ok with vscode but I like Visual Studio more.
 
 I am currently learning on Khan Academy. 
 
-# My profile picture:
-<img src="https://raw.githubusercontent.com/03172008/03172008.github.io/master/pink%20goose%20background%20removed.png", alt="My Profile Picture">
+# lol
+Does lol mean laughing out loud anymore? people use it everywhere, I don't think it is...
 
 ### Header 3
 
